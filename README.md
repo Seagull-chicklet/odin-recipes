@@ -1,2 +1,4 @@
 # odin-recipes
-making a recipe 
+
+making a recipe .
+displaying html links images.
